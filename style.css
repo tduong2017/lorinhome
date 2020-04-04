@@ -9,11 +9,12 @@
 
 body {
 	font-family: 'Product Sans1', sans-serif;
-	background: linear-gradient(
+	background: 
+		linear-gradient(
           rgba(0, 0, 0, 0.5), 
           rgba(0, 0, 0, 0.5)
         ),
-		url('img/raichu.gif');
+		url('img/girl.gif');
 	background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
