@@ -40,10 +40,10 @@ h1.hello, h1.timing {
 input {
 	border:none;
 	border-bottom: 2px solid #fff;
-	min-width: 850px;
-	padding-bottom: 10px;
+	min-width: 500px;
+	min-height: 500px;
+	padding-bottom: 0px;
 	background-color: transparent;
-	background-size: cover;
 	color: #fff;
 	outline: 0;
 	margin-bottom: 0px;
