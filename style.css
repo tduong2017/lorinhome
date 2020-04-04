@@ -15,8 +15,9 @@ body {
         ),
 		url('img/raichu.gif');
 	background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center top;
+    background-clip: border-box;
     background-attachment: scroll;
 	background-color: #333;
 	color: white;
@@ -39,7 +40,7 @@ h1.hello, h1.timing {
 
 input {
 	border:none;
-	border-bottom: 2px solid #fff;
+	border-bottom: 0px solid #fff;
 	min-width: 850px;
 	padding-bottom: 0px;
 	background-color: transparent;
