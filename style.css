@@ -11,14 +11,21 @@ body {
 	font-family: 'Product Sans1', sans-serif;
 	background: 
 		url('img/raichu.gif');
-	background-repeat: no-repeat;
-    background-height: 1080px;
-    background-width: 1920px;	
+	background-repeat: repeat;
+    background-size: cover;
     background-position: center;
     background-attachment: scroll;
 	background-color: #333;
 	color: white;
 	font-size: 20px;
+}
+
+body {
+	font-family: 'Product Sans1', sans-serif;
+	background: linear-gradient(
+          rgba(0, 0, 0, 0.5), 
+          rgba(0, 0, 0, 0.5)
+        ),
 }
 
 a, a:hover, a:focus, a:active, a:visited {
