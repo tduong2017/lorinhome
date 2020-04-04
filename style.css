@@ -16,7 +16,7 @@ body {
         ),
 		url('img/girl.gif');
 	background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1920px 1080px;
     background-position: center;
     background-attachment: scroll;
 	background-color: #333;
