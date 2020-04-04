@@ -16,7 +16,7 @@ body {
         ),
 		url('img/girl.gif');
 	background-repeat: repeat;
-    background-size: cover%;
+    background-size: cover;
     min-height:200px		
     background-position: center;
     background-attachment: scroll;
