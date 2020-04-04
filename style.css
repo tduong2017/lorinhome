@@ -15,7 +15,7 @@ body {
         ),
 		url('img/raichu.gif');
 	background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: cover;
     background-position: center top;
     background-attachment: scroll;
 	background-color: #333;
