@@ -12,9 +12,10 @@ body {
 	background: 
 		url('img/raichu.gif');
 	background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-height: 1080px;
+    background-width: 1920px;	
     background-position: center;
-    background-attachment: cover;
+    background-attachment: scroll;
 	background-color: #333;
 	color: white;
 	font-size: 20px;
