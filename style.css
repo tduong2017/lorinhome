@@ -13,14 +13,7 @@ body {
           rgba(0, 0, 0, 0.5), 
           rgba(0, 0, 0, 0.5)
         ),
-		url('img/bg.jpg');
-	background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: center top;
-    background-attachment: fixed;
-	background-color: #333;
-	color: white;
-	font-size: 20px;
+		background-image:url('https://i.imgur.com/GjbymkU.gif'); background-repeat:repeat;
 }
 
 a, a:hover, a:focus, a:active, a:visited {
