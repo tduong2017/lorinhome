@@ -41,11 +41,11 @@ input {
 	border:none;
 	border-bottom: 2px solid #fff;
 	min-width: 850px;
-	padding-bottom: 10px;
+	padding-bottom: 0px;
 	background-color: transparent;
 	color: #fff;
 	outline: 0;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
 
 .icons img {
