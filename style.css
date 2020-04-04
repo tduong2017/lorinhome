@@ -16,8 +16,8 @@ body {
         ),
 		url('img/girl.gif');
 	background-repeat: no-repeat;
-    background-size: 150% auto;
-
+    background-size: contain;
+    min-height: 1080px;	
     background-position: center;
     background-attachment: scroll;
 	background-color: #333;
